@@ -15,5 +15,5 @@ public class Application implements ApplicationListener<ApplicationReadyEvent> {
 	public void onApplicationEvent(ApplicationReadyEvent event) {
 		System.out.println("=== Ứng dụng đã khởi động thành công ===");
 	}
-
 }
+//http://localhost:8080/swagger-ui/index.html
