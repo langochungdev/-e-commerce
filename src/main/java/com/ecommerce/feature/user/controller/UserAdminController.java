@@ -1,7 +1,7 @@
-package com.boilerplate.feature.user.controller;
+package com.ecommerce.feature.user.controller;
 
-import com.boilerplate.feature.user.dto.UserDto;
-import com.boilerplate.feature.user.service.UserService;
+import com.ecommerce.feature.user.dto.UserDto;
+import com.ecommerce.feature.user.service.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

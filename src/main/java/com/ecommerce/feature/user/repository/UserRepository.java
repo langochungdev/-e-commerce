@@ -1,6 +1,6 @@
-package com.boilerplate.feature.user.repository;
+package com.ecommerce.feature.user.repository;
 
-import com.boilerplate.feature.user.entity.User;
+import com.ecommerce.feature.user.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

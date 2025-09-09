@@ -1,9 +1,9 @@
-package com.boilerplate.feature.user.mapper;
+package com.ecommerce.feature.user.mapper;
 
-import com.boilerplate.feature.user.dto.UserDto;
-import com.boilerplate.feature.user.entity.Role;
-import com.boilerplate.feature.user.entity.User;
-import com.boilerplate.feature.user.entity.UserRole;
+import com.ecommerce.feature.user.dto.UserDto;
+import com.ecommerce.feature.user.entity.Role;
+import com.ecommerce.feature.user.entity.User;
+import com.ecommerce.feature.user.entity.UserRole;
 
 import java.util.HashSet;
 import java.util.Set;

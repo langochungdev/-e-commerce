@@ -1,4 +1,4 @@
-package com.boilerplate.feature.user.dto;
+package com.ecommerce.feature.user.dto;
 
 import lombok.*;
 

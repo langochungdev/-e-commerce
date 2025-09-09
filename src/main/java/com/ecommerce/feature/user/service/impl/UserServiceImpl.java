@@ -1,10 +1,10 @@
-package com.boilerplate.feature.user.service.impl;
+package com.ecommerce.feature.user.service.impl;
 
-import com.boilerplate.feature.user.dto.UserDto;
-import com.boilerplate.feature.user.entity.User;
-import com.boilerplate.feature.user.mapper.UserMapper;
-import com.boilerplate.feature.user.repository.UserRepository;
-import com.boilerplate.feature.user.service.UserService;
+import com.ecommerce.feature.user.dto.UserDto;
+import com.ecommerce.feature.user.entity.User;
+import com.ecommerce.feature.user.mapper.UserMapper;
+import com.ecommerce.feature.user.repository.UserRepository;
+import com.ecommerce.feature.user.service.UserService;
 import org.springframework.stereotype.Service;
 
 import java.util.UUID;

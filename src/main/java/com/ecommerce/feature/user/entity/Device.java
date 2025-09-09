@@ -1,4 +1,4 @@
-package com.boilerplate.feature.user.entity;
+package com.ecommerce.feature.user.entity;
 
 import jakarta.persistence.*;
 import lombok.*;
